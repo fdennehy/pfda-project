@@ -45,7 +45,7 @@ You can run the Jupyter notebooks either locally on your machine or directly in 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/fdennehy/pfda-assignments
+   git clone https://github.com/fdennehy/pfda-project
    cd your-repo-name
    ```
 
