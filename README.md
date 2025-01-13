@@ -26,7 +26,7 @@ The purpose of this repo is to demonstrate ability in the following:
 
 2. Applying technical analysis on this data
 
-3. Plotting both types technical indicators: Overlays and oscillators
+3. Plotting both types of technical indicators: Overlays and oscillators
 
 By the end of the notebook, the user will have a grasp on some of the most common [technical indicators](https://www.investopedia.com/terms/t/technicalindicator.asp) used in financial markets, with some ideas suggested for further exploration in this field.
 
