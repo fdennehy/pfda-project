@@ -6,7 +6,7 @@ This repository primarily contains one Jupyter Notebook `tech_analysis.ipynb`, r
 
 [Technical Analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) is a quantitaive technique used by traders and developers in financial institutions such as banks, hedge funds and exchanges. 
 
-Python and it's libraries are well suited to this analysis, so much so that there are specific python libraries for performing (technical analysis)[https://ta-lib.org/] and (plotting the results)[https://pypi.org/project/mplfinance/]
+Python and it's libraries are well suited to this analysis, so much so that there are specific python libraries for performing [technical analysis](https://ta-lib.org/) and [plotting the results](https://pypi.org/project/mplfinance/).
 
 Rather than leverage these libraries directly, this notebook aims to perform the analysis and plot the results, primarily through [pandas](https://pandas.pydata.org/), [numpy](https://numpy.org/) and [matplotlib](https://matplotlib.org/).
 
